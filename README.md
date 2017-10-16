@@ -1,6 +1,6 @@
 ## Xavier Jiang
 #### Email: Xavierj2216@hstat.org
-**School**: Highschool of Telecommunication Art and technology
+**School**: High School of Telecommunication Art and technology
 ..--- Bio: My favorite sport is basketball and I graduated from Dyker Height in middle school
 
 _schedule_:
@@ -17,3 +17,5 @@ _schedule_:
 Portfolio
   * [My Git portfolio](https://github.com/Xavierj2216)
   * [My SEP portfolio](https://sites.google.com/a/hstat.org/xavierj2216sep11/)
+
+Reviewed by: Anabel Arbeeny 
